@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hello, I'm colmehurze
 
 <!--
 **colmehurze-tech/colmehurze-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+18 y.o. weeb coder who's obsessed with operating systems :)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
