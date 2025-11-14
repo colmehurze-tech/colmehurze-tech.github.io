@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on colmehurze&#39;s blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on colmehurze&#39;s blog</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Nov 2025 19:31:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Windows Manually</title>
+      <link>http://localhost:1313/posts/install-windows-manually/</link>
+      <pubDate>Fri, 14 Nov 2025 19:31:07 +0530</pubDate>
+      <guid>http://localhost:1313/posts/install-windows-manually/</guid>
+      <description>&lt;h2 id=&#34;how-to-manually-install-windows-on-a-disk-drive-using-diskpart-and-bcdboot&#34;&gt;How to manually install windows on a disk drive using diskpart and bcdboot&lt;/h2&gt;
+&lt;h3 id=&#34;q-why-do-this&#34;&gt;Q. Why do this?&lt;/h3&gt;
+&lt;p&gt;Sometimes you need to manually partition your drive and install windows, either because windows won&amp;rsquo;t let you install normally or simply because your pc &amp;ldquo;does not support windows 11&amp;rdquo; (All hail microsoft!)&lt;/p&gt;
+&lt;h3 id=&#34;what-youll-need&#34;&gt;What you&amp;rsquo;ll need:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A bootable windows install media (The process is very trivial so I&amp;rsquo;m skipping it)&lt;/li&gt;
+&lt;li&gt;Basic knowledge of Windows CMD&lt;/li&gt;
+&lt;li&gt;A little patience :)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Note: If you&amp;rsquo;re planning on upgrading to Windows 11 on an unsupported pc without losing data, this method is not for you, as ALL DATA WILL BE ERASED on your device!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

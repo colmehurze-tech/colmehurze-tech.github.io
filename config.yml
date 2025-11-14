@@ -1,0 +1,75 @@
+baseURL: "https://colmehurze-tech.github.io/"
+title: "colmehurze's blog"
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  showtoc: true
+  tocopen: true
+  
+  # Homepage config
+  homeInfoParams:
+    Title: "Hi there, I'm colmehurze"
+    Content: |
+      18 y.o. weeb coder who's obsessed with operating systems :)
+
+      I occasionally post weird ways to brick your computer. Run my code at your own risk!
+
+      - 🔭 I’m currently working on:
+           Making an arch based distro from scratch
+      - 📫 How to reach me:
+      You can email me at colmehurze@gmail.com or message me via discord (colmehurze)/telegram (https://t.me/colmehurze)
+      - 😄 Pronouns: he/him
+      - ⚡ Fun fact: I use Arch BTW :)
+
+  
+  # Social links
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/colmehurze-tech"
+    - name: "email"
+      url: "mailto:colmehurze@gmail.com"
+    - name: "Telegram"
+      url: "https://t.me/colmehurze"
+
+  # Profile mode (shows social icons prominently)
+  profileMode:
+    enabled: true
+    title: "colmehurze"
+    subtitle: "Degenerate weeb who's obsessed with operating systems. Feel free to check out my posts!"
+    #imageUrl: "/images/avatar.jpg"  # Put your avatar in static/images/avatar.jpg
+    #imageWidth: 120
+    #imageHeight: 120
+    #imageTitle: "Your Name"
+
+  homePageParams:
+    Title: "Recent Posts"
+    Posts: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: archives
+      name: Posts
+      url: posts/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: search/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 40
+    - identifier: about
+      name: About
+      url: about/
+      weight: 50
+
