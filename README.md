@@ -10,10 +10,12 @@ I occasionally post weird ways to brick your computer. Run my code at your own r
 
 - 🔭 I’m currently working on:
      Making an arch based distro from scratch
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about:
+-->
 - 📫 How to reach me:
   You can email me at colmehurze@gmail.com or message me via discord (colmehurze)/telegram (https://t.me/colmehurze)
 - 😄 Pronouns: he/him
