@@ -87,7 +87,7 @@ Usually, the Windows installation partition is assigned the drive letter "C", bu
 
 Next, simply type "exit" in the diskpart prompt to exit DISKPART.
 
-6. Install Windows using dism:
+### Step 3: Install Windows using dism
 
 Windows has a built-in imaging tool that allows you to Install Windows to a specified partition. But first, we need to select which version of Windows we want to install:
 ```batch
@@ -103,12 +103,14 @@ Note: Please replace the letter "C" with the drive letter of your windows primar
 
 Wait patiently for Windows to install onto your specified partition. 
 
-6. Almost Done! Installing the bootloader:
+### Step 4: Almost Done! Installing the bootloader
 
 We are almost done with manually installing Windows onto our disk. We need to install the windows bootloader next:
 ```batch
 bcdboot C:\Windows /s S: /f ALL
 ```
 Note: Once again, please replace the drive letters with the corresponding letters in your case.
+
+### Conclusion:
 
 After this command successfully executes, you're all set! Exit the command prompt, and restart your system. This time, do not boot from the Windows installation media, but from your disk drive. You should be greeted with the OOBE wizard.
