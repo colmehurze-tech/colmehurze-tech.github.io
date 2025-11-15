@@ -1,6 +1,11 @@
-baseURL: "https://colmehurze-tech.github.io/colmehurze-tech"
+baseURL: "https://colmehurze-tech.github.io/colmehurze-tech/"
 title: "colmehurze's blog"
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 params:
   defaultTheme: auto
